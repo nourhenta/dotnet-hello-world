@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/96NBvOm/k8=",
+  "dgSpecHash": "W7Z5Thr53eo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\21629\\HelloWorldDotNet\\HelloApp\\HelloApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\21629\\dotnet-hello-world\\HelloApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\21629\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\21629\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\21629\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\21629\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
